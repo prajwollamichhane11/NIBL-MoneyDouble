@@ -5,13 +5,13 @@
   <li>Amount of Sum and there differences from the compounded interest p.a.</li>
   <li>Continuous Distribution up to the given amount</li>
 
-<h3>5000</h3>
+<h3>5 Thousand</h3>
 	<img src = "./5K.png">
-<h3>10000</h3>
+<h3>10 Thousand</h3>
 	<img src = "./10K.png">
-<h3>100000</h3>
+<h3>1 Lakh</h3>
 	<img src = "./1Lak.png">
-<h3>10000</h3>
+<h3>10 Lakh</h3>
 	<img src = "./10Lak.png">
-<h3>10000</h3>
+<h3>1 Crore</h3>
 	<img src = "./1Crore.png">
