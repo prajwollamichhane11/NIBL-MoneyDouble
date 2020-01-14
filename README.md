@@ -16,4 +16,4 @@
 <h3>1 Crore</h3>
 	<img src = "./1Crore.png">
 <h2>My Conclusion</h2>
-<p>Well, if you have a lot of money, you can invest on this plan. But, it do not think it makes any difference.</p>
+<p>Well, if you have a lot of money, you can invest on this plan. But, I do not think it makes any difference.</p>
